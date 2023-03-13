@@ -4,7 +4,7 @@ This is a testing ground for AI
 
 # Project Title
 
-Final project for the Building AI course
+Calculating fill level
 
 ## Summary
 
