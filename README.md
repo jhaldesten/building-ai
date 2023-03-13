@@ -18,15 +18,8 @@ The motivation to do this project is personal, as to use ML in a practical way. 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
+Data sources are mine
+AI methods will be added later.
 
 ## What next?
 
