@@ -15,7 +15,8 @@ The motivation to do this project is personal, as to use ML in a practical way. 
 
 ## Data sources and AI methods
 Data sources are mine. 
-AI methods will be added later.
+The solution will be built on Convolutional Neural Network, extracting high-level features from each image.
+
 
 ## What next?
 
