@@ -1,10 +1,6 @@
-# building-ai
-This is a testing ground for AI
 
+# Calculating fill level
 
-# Project Title
-
-Calculating fill level
 
 ## Summary
 
@@ -18,7 +14,7 @@ The motivation to do this project is personal, as to use ML in a practical way. 
 
 
 ## Data sources and AI methods
-Data sources are mine
+Data sources are mine. 
 AI methods will be added later.
 
 ## What next?
